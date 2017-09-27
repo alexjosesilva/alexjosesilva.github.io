@@ -6,7 +6,7 @@
     "email": "alexjosesilvati@gmail.com",
     "phone": "+55-87-9.9924-3844",
     "website": "https://alexjosesilva.github.io",
-    "summary": "Desenvolvimento ou Manuntenção de Software Multiplataforma (Windows, Linux, Android). Modelagem de dados, Levantamento de requisitos e documentação",
+    "summary": "Analista de Sistemas: Desenvolvimento ou Manuntenção de Software. Modelagem de dados, Capitação de requisitos e documentação",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,7 +28,7 @@
       {
         "network": "twitter",
         "username": "alexjosesilva",
-        "url": "#"
+        "url": "http://twitter.com/alexjosesilva"
       },
       {
         "network": "instagram",
@@ -81,20 +81,21 @@
         "Python",
         "Java",
         "Javascript",
-        "React",
-		"Ruby"
+        "JQuery",
+        "ReactJS",
+        "NodeJS",
+        "AngularJS"
       ]
     },
      {
       "name": "Framework ",
       "level": "",
       "keywords": [
-        "CodeIgniter",
+        "CodeIngiter",
         "Laravel",
         "Spring",
         "Hibernate",
-        "React-Native",
-		"AngularJS"
+        "ReactJS Native"
       ]
     },
      {
@@ -107,7 +108,7 @@
       ]
     },
     {
-      "name": "Servidor",
+      "name": "WebService",
       "level": "",
       "keywords": [
         "Apache",
@@ -154,30 +155,52 @@
   ],
   "work": [
     {
+      "company": "Startup: Farmazap",
+      "position": "Developer FullStack",
+      "website": "http://farmazap.com.br/",
+      "startDate": "2017-04-01",
+      "endDate": "Atual",
+      "summary": "",
+      "highlights": [
+        "Atribuições do cargo: Atuar no Desenvolvimento Full Stack de um", 
+        "Aplicativo Android no qual o foco é a venda de remédio pelo", 
+        "aplicativo no celular. Responsabilidade: Codificar, Testar, Corrigir", 
+        "bugs. Elaboração de documentação. Integração", 
+        "continua",
+        "TECNOLOGIAS:", 
+        "JavaScript, ReactJS, React, Native, Redux",
+        "Router Flux React­Bootstrap NodeJS Android NativoBANCO: Firebase", 
+        "da google (cloud)IDES: WebStorn AndroidStudio Chrome com", 
+        "firebugVERSIONAMENTO: BitBucket com SourceTreeCONTROLE DE", 
+        "PROJETOP: Scrum: divisão de tarefas Trello: gerenciamento de", 
+        "tarefas Slack: comunição entre a equipeFERRAMENTAS Clouds:",
+        "Azure da Microsoft (hospedagem) Firebase da Google (banco)",
+        "PROTOTIPAGEM: https://balsamiq.com"
+      ]
+    },
+    {
       "company": "Accenture do Brasil",
       "position": "Analista de Sistemas",
       "website": "https://www.accenture.com/br-pt",
       "startDate": "201-12-01",
       "endDate": "2017-03-01",
-      "summary": "Auxiliar na manutenção do CRM da mineradora
-			Vale. O qual era responsável pela gerenciamento das principais
-			funcionalidades do TREM: gerar tickets de passagem ou cadastrar
-			carregamentos, habilitar/desabilitar linhas de transporte. As 
-			correções de bugs no sistema era através de atendimento direto com
-			cliente, exigindo do programador habilidades quanto a interpretação
-			e correção dos chamados",
+      "summary": "",
       "highlights": [
-			"Tecnologia utilizada: Conhecimento na linguagem JAVA", 
-			"Domínio em Programação Estruturada e Orientada e MVC",
-			"Conhecimento do frameworks Spring e Hibernate",
-			"Análise de Performance de aplicações (PL/SQL)",
-			"Análise de requisitos",
-			"Facilidade no uso do banco: Oracle: Operações Básicas: Select, Insert, Drop, Update",
-			"Domínio no nas tecnologias JSP, xhtml, bootstrap",
-			"Dominio na tecnolgia AngularJS", 
-			"Manuntenção do repositorio: github", 
-			"Acompanhento de chamados: Jira.",
-			"Metodologia utilizada: XP"
+          "Auxiliar na manutenção do CRM da mineradora", 
+          "Vale. O qual era responsável pela gerenciamento das principais", 
+          "funcionalidades do TREM: gerar tickets de passagem ou cadastrar", 
+          "carregamentos, habilitar/desabilitar linhas de transporte. As", 
+          "correções de bugs no sistema era através de atendimento direto com", 
+          "cliente, exigindo do programador habilidades quanto a interpretação", 
+          "e correção dos chamados. Tecnologia utilizada: Conhecimento na", 
+          "linguagem JAVA. Domínio em Programação Estruturada e Orientada", 
+          "a Objetos Conhecimento em Desenvolvimento em Camadas com", 
+          "Spring e Hibernate. Análise de Performance de aplicações (código", 
+          "Java e PL/SQL). Análise de requisitos. Facilidade no uso do banco", 
+          "Oracle: Operações Básicas: Select, Insert, Drop, Update. Domínio no",
+          "nas tecnologias JSP, xhtml, bootstrap. Dominio na tecnolgia", 
+          "AngularJS. Manuntenção do repositorio: github. Acompanhento de",
+          "chamados: Jira. Metodologia utilizada: XP"
 
       ]
     },
@@ -187,49 +210,47 @@
       "website": "http://segsat.com/portal/",
       "startDate": "2016-06-01",
       "endDate": "2016-12-01",
-      "summary": " Atribuições do cargo: Manutenção e desenvolvimento de novas funcionalidades em Sistema de Rastreamento em Tempo Real ",
+      "summary": "",
       "highlights": [
-	  		"Conhecimentos em Programação Estruturada e Orientada a Objetos e MVC",
-			"Análise de Performance de aplicações (PL/SQL)",
-			"Conhecimento em Banco de Dados Oracle",
-			"Modelagem de Banco",
-			"Dominio da linguagem JAVA",
-			"Desenvolvimento de aplicações nos frameworks: Spring e o Framework e Hibernate",
-			"Repositório de fontes com GIT/BitBucket",
-			"Elaboração de documentos Técnicos: Ireport", 
-			"Experiência Eclipse (IDE)", 
-			"Uso constante das tecnologias: HTML, CSS, JAVASCRIPT e AngularJS",
-			"Servidor de aplicação (JBOSS X.X)",
-			"Análise de requisitos."
+            "Atribuições do cargo: Manutenção e desenvolvimento de novas", 
+            "funcionalidades em Sistema de Rastreamento em Tempo Real.", 
+            "Conhecimentos em Programação Estruturada e Orientada a Objetos,", 
+            "Java. Análise de Performance de aplicações (código Java e PL/SQL).", 
+            "Conhecimento em Banco de Dados Oracle. Modelagem de Banco em", 
+            "UML. Desenvolvimento de aplicações nos frameworks: Spring", 
+            "Framework e Hibernate. Repositório de fontes com GIT/BitBucket.", 
+            "Elaboração de documentos Técnicos. Experiência Eclipse (IDE) Uso", 
+            "constante das tecnologias: HTML, CSS, JAVASCRIPT. Frameworks", 
+            "para WEB (AngularJS). Servidor de aplicação (JBOSS X.X)Análise de", 
+            "requisitos."
       ]
     }
 
   ],
   "volunteer": [
     {
-      "organization": "Pastoral Social",
+      "organization": "",
       "website": "",
-      "position": "Coordenador",
-      "startDate": "2017-08-01",
+      "position": "",
+      "startDate": "",
       "endDate": "",
-      "summary": " Coordenar as ativdades do Restaurante comunitario: distribuição de alimentos, doação de roupas e treinamento de equipe responsavel pelos atendimentos ",
+      "summary": "",
       "highlights": [
-        "Servico Social",
-		"Santo Amaro",
-        "Paroquia Nossa Senhora da Piedade"
+        "",
+        ""
       ]
     },
     {
-      "organization": "Pastoral da Criança",
+      "organization": "",
       "website": "",
-      "position": "Voluntario",
-      "startDate": "2016-08-01",
+      "position": "",
+      "startDate": "",
       "endDate": "",
-      "summary": "Investigar desnutrição infantil no municipio de Olinda e auxiliar na distribuição de doação para os visitantes",
+      "summary": "",
       "highlights": [
-        "Olinda",
-        "Guadalupe",
-        "Paroquia da Guadalupe"
+        "",
+        "",
+        ""
       ]
     }
   ],
@@ -249,7 +270,7 @@
   ],
   "references": [
     {
-      "name": "",
+      "name": "Available upon request",
       "reference": ""
     }
   ]
