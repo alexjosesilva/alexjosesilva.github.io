@@ -22,7 +22,7 @@ As funcionalidades deste CRM: monitorar alunos quanto a notas e pagamento no cur
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/CRMEscolaIdioma/telaLogin.jpg">
+  <img class="ui image" src="../images/CRMEscolaIdioma/telaLogin.png">
   <img class="ui image" src="../images/CRMEscolaIdioma/telaCadastroUsuario.png">
   <img class="ui image" src="../images/CRMEscolaIdioma/telaHome.png">
 </div>
