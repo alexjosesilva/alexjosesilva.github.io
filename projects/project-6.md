@@ -1,14 +1,17 @@
 ---
 layout: project
 type: project
-image: images/CRMEscolaIdioma/CRMEscolaIdioma.png
-title: Apps
+image: images/CRMEscolaIdioma/telaHome.png
+title: CRM Escola Idioma
 permalink: projects/CRMEscolaIdioma
-date: 2017
+date: 10/2017
 labels:
-- ReactNative
-- NodeJS
-- Firebase
+- PHP
+- CodeIgniter
+- Mysql
+- BootStrap
+- Jquery
+- Fpdf
 summary: CRM para gerenciamento de atividades de uma escola de idioma
 ---
 
