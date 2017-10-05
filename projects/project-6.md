@@ -4,7 +4,7 @@ type: project
 image: images/CRMEscolaIdioma/telaHome.png
 title: CRM Escola Idioma
 permalink: projects/CRMEscolaIdioma
-date: 10/2017
+date: 2017
 labels:
 - PHP
 - CodeIgniter
