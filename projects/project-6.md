@@ -15,7 +15,7 @@ labels:
 summary: CRM para gerenciamento de atividades de uma escola de idioma
 ---
 
-Neste projeto temao o desenvolimento de um CRM com codeigniter 2.X, PHP, Mysql.
+Neste projeto foi desenvolimento de um CRM com codeigniter 2.X, PHP, Mysql.
 Hospedado no servidor Azure.
 
 As funcionalidades deste CRM: monitorar alunos quanto a notas e pagamento no curso.
