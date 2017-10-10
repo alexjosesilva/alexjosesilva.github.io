@@ -34,5 +34,7 @@ Inclusão de Tecnologias como AngularJS
 <hr>
 
 Source: <a href="https://github.com/alexjosesilva/SistemaRHphp">
-		<i class="large github icon "></i>SistemaRH</a>
+		<i class="large github icon "></i>Sistema RH</a>
+URL: <a href="http://sistemarhphp.azurewebsites.net/">
+		<i class="large github icon "></i>Sistema Online</a>
 
