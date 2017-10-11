@@ -31,7 +31,7 @@ As funcionalidades deste CRM: monitorar alunos quanto a notas e pagamento no cur
 
 Mais sobre o app [Repositorio]
 
-Source: <a href="https://github.com/alexjosesilva/Curso-React-Native">
+Source: <a href="https://github.com/alexjosesilva/appEscolaIdiomas">
 	<i class="large github icon"></i> Repositorio
 </a>
 
